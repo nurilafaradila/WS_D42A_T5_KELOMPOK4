@@ -16,4 +16,4 @@ Thumbs.db
 /vendor
 
 # composer itself is not needed
-composer.pharm
+composer.phar
